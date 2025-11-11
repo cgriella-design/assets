@@ -1,0 +1,29 @@
+{
+  "name": "LBS Token",
+  "symbol": "LBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Token utilitário da Light Boat Sul — usado para aluguel por minuto, reservas e serviços náuticos sustentáveis.",
+  "website": "https://lightboatsul.com.br",
+  "explorer": "https://www.oklink.com/amoy/address/0xC1D097Cf6aD42251C5814eEd492424A41AD4C401",
+  "status": "active",
+  "id": "0xC1D097Cf6aD42251C5814eEd492424A41AD4C401",
+  "chainId": 80002,
+  "network": "polygon-amoy",
+  "logoURI": "https://lightboatsul.com.br/logo.png",
+  "links": [
+    {
+      "type": "source_code",
+      "url": "https://repo.sourcify.dev/80002/0xC1D097Cf6aD42251C5814eEd492424A41AD4C401/"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/trustwallet/assets"
+    },
+    {
+      "type": "project",
+      "url": "https://lightboatsul.com.br"
+    }
+  ],
+  "tags": ["utility", "polygon", "lightboatsul", "lbs"]
+}
