@@ -1,0 +1,15 @@
+{
+  "name": "Light Boat Sul",
+  "symbol": "LBS",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "LBS é o token da Light Boat Sul. Usado como saldo/garantia para passeios.",
+  "website": "https://lightboatsul.com.br",
+  "explorer": "https://polygonscan.com/token/0x21D8A687C898B62F09049C1527613fEc73604Fc2",
+  "status": "active",
+  "id": "0x21D8A687C898B62F09049C1527613fEc73604Fc2",
+  "links": [
+    {"name": "twitter", "url": "https://twitter.com/seu_perfil"},
+    {"name": "github", "url": "https://github.com/seu_repo"}
+  ]
+}
